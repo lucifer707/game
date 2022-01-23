@@ -1,0 +1,6 @@
+player Name : Aditya Pratap
+player Age : 22
+Number guess : 3
+Number guess : 6
+Number guess : 8
+https://www.onlinegdb.com/classroom
